@@ -174,7 +174,8 @@ web: gunicorn app:app
 ```
 
 ---
-
+## Minor Update
+Improved documentation clarity.
 ## Web template
 
 The UI uses HTML/CSS templates inspired by [Colorlib RegForm](https://colorlib.com/wp/template/colorlib-regform-7/).
